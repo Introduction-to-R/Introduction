@@ -1,14 +1,3 @@
----
-title: "Introduction and Syllabus"
-author: "Bas Machielsen"
-date: "3/2/2020"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## Introduction
 
 Welcome to **Introduction to R and Data Science**, a 10-lecture course that will (hopefully) convince all of you to start using R, and teach you the basic principles as well as several advanced aspects of the programming language [R](https://en.wikipedia.org/wiki/R_(programming_language)), a statistical programming language which has recently seen a surge in popularity because of its power and ease of use.
