@@ -8,9 +8,11 @@ First, we will focus on the fundamentals: installing R/Rstudio, and importing an
 
 Afterwards, we tackle arguably one of the most important task: tidying our data. Data comes in many formats, and it is not always straightforward to get the data in a format which can be recognized by programs/functions that perform statistical or graphical analysis. The process of doing this is called **data tidying**, and R programmers have developed a fantastic set of packages, together called the **tidyverse** to do this. In this course, we will familiarize ourselves with the most common and most useful tidyverse functions to learn how to tidy just about every format of untidy data. 
 
-After you've mastered how to tidy data in R, we can use several plotting environments to create graphs and other visualizations of our data. In the past, many people used MS Excel or other programs to generate graphs, which harmed reproducibility (there is no code leading up to a graph), and the graphs are ..not aesthetically pleasing. We will learn how to efficiently program visualizations, and make our **workflow** more efficient by learning how to easily update our figures when, for example, we use additional data, or we want to add an additional variable. 
+Once we've mastered how to tidy data in R, we can use several plotting environments to create graphs and other visualizations of our data. In the past, many people used MS Excel or other programs to generate graphs, which harmed reproducibility (there is no code leading up to a graph), and the graphs are ..not aesthetically pleasing. We will learn how to efficiently program visualizations, and make our **workflow** more efficient by learning how to easily update our figures when, for example, we use additional data, or we want to add an additional variable. 
 
 Next, we will learn how to perform basic statistical analyses in R, and efficiently report them, for example, in your next presentation at a conference, or in your current paper. We consider this to be the essentials of any R user. 
+
+Finally, we will focus on more advanced aspects of R Programming, such as Web scraping and Data transparency, and we will close the lecture series by addressing how to make your research reproducible using tools provided by RStudio, most notably **RMarkdown**. 
 
 ## Course contents
 
