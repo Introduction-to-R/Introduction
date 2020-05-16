@@ -29,8 +29,9 @@ Next, we will learn how to perform basic statistical analyses in R, and efficien
 | 11      | Statistics: Time series models                        | Here   |
 | 12      | Web scraping: server-side                             | Here   |
 | 13      | Web scraping: API's                                   | Here   |
-| 14      | Reproducible research: RMarkdown - Basics             | Here   |
-| 15      | Reproducible research: RMarkdown - Rpubs, Blogdown    | Here   |
+| 14      | Data Transparency                                     | Here   |
+| 15      | Reproducible research: RMarkdown - Basics             | Here   |
+| 16      | Reproducible research: RMarkdown - Rpubs, Blogdown    | Here   |
 
 ## Prerequisites
 
